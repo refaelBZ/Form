@@ -1,0 +1,27 @@
+.table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 10px; /* מרווח אנכי בין שורות */
+    width: 700px;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    height: 40px;
+    color: gray;
+    font-size: 14px;
+
+}
+
+.titles th {
+    padding: 10px; /* מרווח פנימי לכותרות */
+    text-align: left;
+    background-color: rgb(240, 240, 240);
+
+}
+
+.row td {
+    padding: 10px; /* מרווח פנימי לתאים */
+    border-bottom: 1px solid gray; /* גבול תחתון לכל תא */
+    color: gray;
+}
+
+

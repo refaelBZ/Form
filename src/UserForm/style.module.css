@@ -1,0 +1,21 @@
+.form{
+    width: 500px
+}
+
+.formBox{
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    min-height: 500px;
+}
+
+.submit input{
+    height: 40px;
+    width: 300px;
+    border: none;
+    background-color: rgb(240, 240, 240);
+   }
